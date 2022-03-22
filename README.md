@@ -1,4 +1,4 @@
-# Analyze Encryption of Sigma wap
+# Analyze Encryption of Sigma Swap
 ## Introduction
 Analyze the times appear of cipher character to find the messaging character. 
 ### Method 
